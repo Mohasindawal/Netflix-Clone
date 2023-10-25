@@ -45,8 +45,6 @@ Be sure to check out the live demo of the Netflix Clone project by following [th
 
 While this version of the project is static and built only with HTML and CSS, there are opportunities for further development. You may consider adding JavaScript for interactivity, integrating a backend for dynamic content, and implementing user authentication for a more complete Netflix-like experience.
 
-I encourage contributions from the open-source community to enhance and expand the project's capabilities.
-
 ## Acknowledgments
 
 I would like to express my gratitude to Bharat Interns for providing me with the opportunity to work on this project and learn valuable skills in web development. I also want to thank the online community for their tutorials and resources, which greatly assisted me in completing this project.
